@@ -21,9 +21,10 @@ img{
     display: flex;
 }
 
-.conteiner{
+.container{
     width: 1158px;
-    padding: 0 15px
+    padding: 0 15px;
+    margin: 0;
 }
 
 .something{
@@ -49,7 +50,13 @@ img{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5
+    color: #4d5ae5;
+    margin-right: 76px;
+}
+
+.menu{
+    display: flex;
+    padding: 24px 0;
 }
 
 .studio{
