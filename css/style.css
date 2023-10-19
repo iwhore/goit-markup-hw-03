@@ -185,6 +185,7 @@ address{
 
    .list{
     background-color: #FFFFFF;
+    width: ((100% - 72px) / 4);
    }
 
    footer .studio{
