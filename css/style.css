@@ -4,6 +4,10 @@ body{
     background-color: #FFFFFF;
 }
 
+img{
+    display: block;
+}
+
 .something{
     font-weight: 500;
     font-size: 20px;
