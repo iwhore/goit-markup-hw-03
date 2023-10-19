@@ -41,6 +41,7 @@ img{
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    max-width: 496px;
 }
 
 .logo{
@@ -56,7 +57,6 @@ img{
 
 .menu{
     display: flex;
-    padding: 24px 0;
     gap: 40px 
 }
 
@@ -69,6 +69,7 @@ img{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding: 24px 0;
 }
 
 .navigation:hover,
@@ -98,6 +99,7 @@ address{
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    padding: 188px 0;
   }
 
   /* Стиль для кнопки */
@@ -109,6 +111,13 @@ address{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    cursor: pointer;
+    display: block; 
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    background-color:#4d5ae5;
+    border-radius: 4px;
     cursor: pointer;
   }
 
