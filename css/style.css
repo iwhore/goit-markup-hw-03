@@ -24,7 +24,7 @@ img{
 .container{
     width: 1158px;
     padding: 0 15px;
-    margin: 0;
+    margin: 0 auto;
 }
 
 .something{
@@ -33,6 +33,7 @@ img{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
+    margin-bottom: 8px;
 }
 
 .maintittle{
@@ -64,6 +65,15 @@ img{
     color: #2e2f42;
 }
 
+.description{
+    display: flex; 
+    gap: 24px;
+}
+
+.lidescription{
+    width: calc((100% - 72px) / 4);
+}
+
 .navigation{
     font-weight: 500;
     line-height: 1.5;
@@ -89,7 +99,7 @@ address{
 .adress:hover,
 .adress:focus{
     color: #404bbf;
-}
+ }
 
  /* Стиль для заголовку */
  .sec {
@@ -129,6 +139,7 @@ address{
 
    .second{
     color: #2e2f42;
+    padding: 120px 0;
    }
 
    .title{
