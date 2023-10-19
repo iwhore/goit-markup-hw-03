@@ -12,9 +12,13 @@ img{
     border-bottom: 1px solid #e7e9fc;
 }
 
-.container{
+.headinfo{
     display: flex;
+}
+
+.conteiner{
     width: 1158px;
+    padding: 0 15px
 }
 
 .something{
