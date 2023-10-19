@@ -1,0 +1,154 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+header{
+    font-family: "Raleway", sans-serif;
+}
+
+.something{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+
+.maintittle{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5
+}
+
+.studio{
+    color: #2e2f42;
+}
+
+.navigation{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.navigation:hover,
+.navigation:focus{
+    color: #404bbf;
+}
+
+address{
+    font-style: normal;
+}
+.adress{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.adress:hover,
+.adress:focus{
+    color: #404bbf;
+}
+
+ /* Стиль для заголовку */
+ .sec {
+    background-color: #2e2f42;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+  }
+
+  /* Стиль для кнопки */
+  .button {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+  }
+
+   /* Стиль для кнопки при наведенні */
+   .button:hover,
+   .button:focus {
+     background-color: #404BBF;
+   }
+
+   .second{
+    color: #2e2f42;
+   }
+
+   .title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+   }
+
+   .paragraph{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+   }
+
+   .team{
+    background-color: #F4F4FD;
+   }
+
+   .team h2{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+   }
+
+   .list{
+    background-color: #FFFFFF;
+   }
+
+   footer .studio{
+    color: #F4F4FD;
+   }
+
+   .foot{
+    background-color: #2e2f42;
+   }
+
+   footer p{
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+   }
+
+   .contacts{
+    color: #434455;
+   }
+
+   .contacts:hover{
+    color: #404bbf;
+   }
+   .contacts:focus{
+    color: #404bbf;
+   }
