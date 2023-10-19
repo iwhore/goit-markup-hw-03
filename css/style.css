@@ -181,6 +181,17 @@ address{
     row-gap: 48px;
    }
 
+   .liapps{
+    width: calc((100% - 48px) / 3);
+   }
+
+   .divapps{
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px;
+   }
+
    .team h2{
     font-size: 36px;
     line-height: 1.11;
