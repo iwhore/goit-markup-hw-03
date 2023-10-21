@@ -183,7 +183,7 @@ address{
     row-gap: 48px;
    }
 
-   .liapps{
+   .liapps img{
     width: calc((100% - 48px) / 3);
    }
 
