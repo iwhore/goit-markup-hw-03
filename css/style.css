@@ -188,7 +188,7 @@ address{
     row-gap: 48px;
 }
 
-.liapps img{
+.liapps{
     width: calc((100% - 48px) / 3);
 }
 
