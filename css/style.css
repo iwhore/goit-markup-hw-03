@@ -116,10 +116,10 @@ address{
 .adress:hover,
 .adress:focus{
     color: #404bbf;
- }
+}
 
  /* Стиль для заголовку */
- .sec {
+.sec {
     background-color: #2e2f42;
     font-size: 56px;
     line-height: 1.07;
@@ -127,10 +127,10 @@ address{
     letter-spacing: 0.02em;
     color: #ffffff;
     padding: 188px 0;
-  }
+}
 
   /* Стиль для кнопки */
-  .button {
+.button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -146,118 +146,120 @@ address{
     background-color:#4d5ae5;
     border-radius: 4px;
     cursor: pointer;
-  }
+}
 
    /* Стиль для кнопки при наведенні */
-   .button:hover,
-   .button:focus {
+.button:hover,
+.button:focus {
      background-color: #404BBF;
    }
 
-   .second{
+.second{
     color: #2e2f42;
     padding: 120px 0;
-   }
+}
 
-   .tittle{
+.tittle{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-bottom: 72px;
-   }
+    
+}
 
-   .paragraph{
+.paragraph{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-   }
+}
 
-   .team{
+.team{
     background-color: #F4F4FD;
     padding: 120px 0;
-   }
+}
 
-   .apps{
+.apps{
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-   }
+}
 
-   .liapps{
+.liapps img{
     width: calc((100% - 48px) / 3);
-   }
+}
 
-   .divapps{
+.divapps{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
-   }
+}
 
-   .team h2{
+.team h2{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-   }
+}
 
-   .list{
+.list{
     background-color: #FFFFFF;
     width: ((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px; 
-   }
+}
 
-   footer .studio{
+footer .studio{
     color: #F4F4FD;
-   }
+}
 
-   .foot{
+.foot{
     background-color: #2e2f42;
     padding: 100px 0;
-   }
+}
 
-   .foot .logo{
+.foot .logo{
     display: inline-block;
     margin-bottom: 16px;
-   }
+}
 
-   .p_footer{
-    max-width: 264px;
-   }
+.p_footer{
+     max-width: 264px;
+}
 
-   footer p{
+footer p{
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
-   }
+}
 
-   .namediv{
+.namediv{
     padding: 32px 0;
-   }
+}
 
-   .namediv .something,
-   .namediv .paragraph
-   {
+.namediv .something,
+.namediv .paragraph
+{
     text-align: center;
-   }
+}
 
-   .portfolio{
+.portfolio{
     padding-top: 120px; padding-bottom: 120px; 
-   }
+}
 
-   .contacts{
+.contacts{
     color: #434455;
-   }
+}
 
-   .contacts:hover{
+.contacts:hover{
     color: #404bbf;
-   }
-   .contacts:focus{
+}
+
+.contacts:focus{
     color: #404bbf;
-   }
+}
